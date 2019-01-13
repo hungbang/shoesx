@@ -1,5 +1,6 @@
 # shoesx
 
+- Never fake or SF, always real
 - trading real shoes
 - Steps for buying:
 1. bid/buy shoes item that you want, 
